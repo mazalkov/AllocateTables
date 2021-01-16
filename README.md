@@ -1,2 +1,3 @@
-# anzdrewTESTING.github.io
-Terminal rendition of my personal website
+# AllocateTables
+
+Allocates tables in a restaurant to customers in an efficient way.
